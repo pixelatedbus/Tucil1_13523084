@@ -17,7 +17,7 @@ jar cfe SigmaPuzzleSolver.jar Main -C out .
 
 ### Cara Menjalankan Program
 1. Buka terminal
-2. Cari file "SigmaPuzzleSolver.jar", masuk ke direktori tempat file tersebut berada
+2. Cari file "SigmaPuzzleSolver.jar" pada folder bin, masuk ke direktori tempat file tersebut berada
 3. Ketikkan perintah berikut di terminal:
 ```
 java -jar SigmaPuzzleSolver.jar
